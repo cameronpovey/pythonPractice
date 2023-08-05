@@ -16,7 +16,6 @@ class cCar:
     def set_brand(self, value):
         self.brand = value
 
-
     def GET_doors(self, value):
         self.doors = value
         
